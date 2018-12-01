@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pattern Matching on 李子峰的Github Page</title>
+    <link>https://brent-li.github.io/tags/pattern-matching/</link>
+    <description>Recent content in Pattern Matching on 李子峰的Github Page</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh_CN</language>
+    <copyright>All rights reserved - 2017</copyright>
+    <lastBuildDate>Wed, 08 Feb 2017 22:07:46 +0800</lastBuildDate>
+    
+	<atom:link href="https://brent-li.github.io/tags/pattern-matching/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Scala学习笔记之模式匹配</title>
+      <link>https://brent-li.github.io/post/scala-learning-pattern-maching/</link>
+      <pubDate>Wed, 08 Feb 2017 22:07:46 +0800</pubDate>
+      
+      <guid>https://brent-li.github.io/post/scala-learning-pattern-maching/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
